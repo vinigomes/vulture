@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/vinigomes/vulture#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "pcap": "^2.1.0"
   }
 }
